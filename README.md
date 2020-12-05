@@ -2,9 +2,12 @@
 
     Atividade de cursos e exemplos de estudo.
 
+> `source venv/bin/activate`
+
 ## CursoS
 
 1. [Taming Big Data with Apache Spark and Python - Hands On!](https://www.udemy.com/course/taming-big-data-with-apache-spark-hands-on)
+   1. Dados para curso [aqui](https://sundog-education.com/spark-python/).
 
 
 ---
