@@ -13,3 +13,7 @@
 Conjunto de dados tipados.
 
 ## Conectar em dados Spark via Beeline
+
+## SQL API
+
+> Diferença entre `sort` e `orderBy`.
