@@ -17,3 +17,6 @@ Conjunto de dados tipados.
 ## SQL API
 
 > Diferença entre `sort` e `orderBy`.
+
+
+> file:////Users/giovanna/Documents/GitHub/pyspark/SparkCourse/
