@@ -9,6 +9,7 @@
 1. [Taming Big Data with Apache Spark and Python - Hands On!](https://www.udemy.com/course/taming-big-data-with-apache-spark-hands-on)
    1. Dados para curso [aqui](https://sundog-education.com/spark-python/).
    2. DataSet: [aqui](http://grouplens.org).
+   > Este curso permite visualizar alguns recursos que existem disponível no Spark de forma prática e didática. Não é um curso para aprender sobre Ciência de Dados ou Python e sim para quem já conhece identificar o que a ferramenta Spark pode prover. Não espere muitos detalhes de codificação, mas pode ser muito importante os casos de uso e exemplos na tomada de decisão durante a solução de algum problema específico.
 
 
 ---
